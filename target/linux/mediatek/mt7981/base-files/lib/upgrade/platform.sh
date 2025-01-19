@@ -200,6 +200,7 @@ platform_do_upgrade() {
 	*clt,r30b1* |\
 	*imou,lc-hx3001* |\
 	*jcg,q30* |\
+        ruijie,rg-x30e* |\
 	nradio,wt9103 |\
 	cmcc,a10 |\
 	cmcc,rax3000m |\
@@ -240,6 +241,7 @@ platform_check_image() {
 	*mt2500* |\
 	*zr-3020* |\
 	*360,t7* |\
+        ruijie,rg-x30e* |\
 	xiaomi,mi-router-wr30u-stock|\
 	xiaomi,mi-router-wr30u-112m|\
 	xiaomi,mi-router-ax3000t* |\
